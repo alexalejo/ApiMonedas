@@ -1,0 +1,11 @@
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\obj\Debug\netcoreapp2.0\ApiMonedas.csprojAssemblyReference.cache
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\obj\Debug\netcoreapp2.0\ApiMonedas.csproj.CoreCompileInputs.cache
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\obj\Debug\netcoreapp2.0\ApiMonedas.AssemblyInfoInputs.cache
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\obj\Debug\netcoreapp2.0\ApiMonedas.AssemblyInfo.cs
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\bin\Debug\netcoreapp2.0\ApiMonedas.deps.json
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\bin\Debug\netcoreapp2.0\ApiMonedas.runtimeconfig.json
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\bin\Debug\netcoreapp2.0\ApiMonedas.runtimeconfig.dev.json
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\bin\Debug\netcoreapp2.0\ApiMonedas.dll
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\bin\Debug\netcoreapp2.0\ApiMonedas.pdb
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\obj\Debug\netcoreapp2.0\ApiMonedas.dll
+C:\puntonet\vs2017\ApiMonedas\ApiMonedas\obj\Debug\netcoreapp2.0\ApiMonedas.pdb
